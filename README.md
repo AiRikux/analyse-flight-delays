@@ -7,3 +7,4 @@
  Preparation and analysation using Spark RDD, Spark DataFrame, and Spark SQL
  
  **Part 2**
+Creating a Gradient-Boosted Trees classifier pipeline using pyspark.ml library to predict whether a flight will be late or not.
